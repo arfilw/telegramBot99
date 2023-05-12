@@ -12,7 +12,7 @@ let MensajeAd =
 let imagenAd =
 	"https://vilmanunez.com/wp-content/uploads/2018/10/poner-anuncios-publicitarios-gratis.png"
 
-const N_VIDEOS = 10 //MAX 10
+const N_VIDEOS = 3 //MAX 10
 
 const MY_AD = {
 	isActive: false,
